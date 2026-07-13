@@ -1,6 +1,6 @@
 'use client';
 import { useEffect, useState } from 'react';
-import { supabase } from '@/lib/supabase';
+import { supabase } from '../../lib/supabase';
 
 export default function AdminPage() {
   const [settings, setSettings] = useState({ client_title: '', client_button_text: '', background_image_url: '' });
