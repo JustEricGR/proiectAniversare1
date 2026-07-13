@@ -1,0 +1,3 @@
+module.exports=[97542,a=>{"use strict";var b=a.i(7997);const c={title:"Proiect Aniversare",description:"Creat cu Next.js si Supabase"};a.s(["default",0,function({children:a}){return(0,b.jsx)("html",{lang:"ro",children:(0,b.jsx)("body",{style:{margin:0,padding:0},children:a})})},"metadata",0,c])},57872,a=>{a.n(a.i(97542))}];
+
+//# sourceMappingURL=Documents_proiectAniversare_proiectAniversare1_app_layout_0kgmrsp.js.map

@@ -9,8 +9,5 @@ export default function RootLayout({ children }) {
       <body style={{ margin: 0, padding: 0 }}>{children}</body>
     </html>
   )
-}export const metadata = {
-  title: 'Proiect Aniversare',
-  description: 'Creat cu Next.js si Supabase',
 }
 
